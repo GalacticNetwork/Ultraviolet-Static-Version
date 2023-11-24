@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'https://bsw.vipers.design/'
+    bare: 'https://laptop.promathclass.com/bare/'
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
